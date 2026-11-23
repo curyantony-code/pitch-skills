@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: anonymous-landlord-ratings
+expected_outcome: |
+  Name the objection first, give a mechanism-shaped answer with placeholders, cite a concept case, and invent nothing.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: journaling-app-valuation
+expected_outcome: |
+  A metrics sheet, valuation line, script with the demo bracketed or written from given facts, a copy-risk answer and a drill. Arithmetic is correct and gaps are bracketed.
